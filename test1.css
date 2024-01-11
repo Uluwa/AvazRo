@@ -48,7 +48,7 @@
   flex-wrap: nowrap;
   height: 700px;
   width: 100%;
-  background-image: url(/img/Payon_2.png);
+  background-image: url(./img/Payon_2.png);
 }
 .change-picture {
   width: 50%;
@@ -103,7 +103,7 @@
   font-weight: bold;
 }
 .five-type {
-  background-image: url(/img/Toson.png);
+  background-image: url(./img/Toson.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
